@@ -8,3 +8,5 @@ stats/*
 tfrecords/*
 logs/*
 
+*.xml
+*.iml
